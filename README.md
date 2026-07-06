@@ -4,7 +4,9 @@ A concept-level healthcare support web app for [Jarurat Care Foundation](https:/
 
 Built as an assignment prototype, so it favours a clean, realistic architecture over feature count.
 
-**Live demo:** _add your Vercel URL here after deploying_
+### [Watch the demo video](https://youtu.be/iYNgzbxONQ0)
+
+**Live demo:** [careconnect-jc.vercel.app](https://careconnect-jc.vercel.app)
 
 **Submissions dashboard:** the same site at **`/dashboard`** (public, demo data) - stat tiles, charts, and the recent submissions captured by the forms.
 
