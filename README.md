@@ -118,7 +118,7 @@ create policy "anon can read" on submissions
 |---|---|
 | ![Home](screenshots/home-light.png) | ![CareBot](screenshots/carebot-answer-light.png) |
 
-![Submissions dashboard in dark mode](screenshots/dashboard-dark.png)
+![Submissions dashboard](screenshots/dashboard-light.png)
 
 More screenshots of every view - the volunteer and contact forms, the auto-response, the CareBot medical-safety guard, and all screens in both light and dark themes - are in the [`screenshots/`](screenshots) folder.
 
