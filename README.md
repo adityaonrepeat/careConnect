@@ -9,6 +9,7 @@ Built as an assignment prototype, so it favours a clean, realistic architecture 
 **Live Website:** [careconnect-jc.vercel.app](https://careconnect-jc.vercel.app)
 
 **Submissions dashboard:** the same site at **`/dashboard`** (public, demo data) - stat tiles, charts, and the recent submissions captured by the forms.
+Note: The backend uses the Supabase free tier, which pauses after inactivity. If forms or dashboards fail to load, the database is currently asleep. Feel free to reach out if you'd like me to wake it up for a demo!
 
 ## Features
 
