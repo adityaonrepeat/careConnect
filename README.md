@@ -6,7 +6,8 @@ Built as an assignment prototype, so it favours a clean, realistic architecture 
 
 ### [Watch the demo video](https://youtu.be/iYNgzbxONQ0)
 
-**Live Website:** [careconnect-jc.vercel.app](https://careconnect-jc.vercel.app) 
+**Live Website:** [careconnect-jc.vercel.app](https://careconnect-jc.vercel.app)
+
 some features may be down due to inactivity.
 
 **Submissions dashboard:** the same site at **`/dashboard`** (public, demo data) - stat tiles, charts, and the recent submissions captured by the forms.
